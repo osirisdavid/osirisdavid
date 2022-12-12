@@ -27,7 +27,9 @@ I'm David Ayala, an Backend Developer with Java and Kotlin.
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg"  title="Git" alt="Git" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"  title="Github" alt="Github" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg"  title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg"  title="Confluence" alt="Confluence" width="40" height="40"/>&nbsp;  
+    <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg"  title="Confluence" alt="Confluence" width="40" height="40"/>&nbsp; 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg"  title="Slack" alt="Slack" width="40" height="40"/>&nbsp;
+      
   </div>
     
 </div>
