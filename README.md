@@ -21,7 +21,7 @@ I'm David Ayala, an Backend Developer with Java and Kotlin.
     <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"  title="MySql" alt="MySql" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"  title="MySql" alt="MySql" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg"  title="Jquery" alt="Jquery" width="40" height="40"/>&nbsp;      
+      <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg"  title="Jquery" alt="Jquery" width="40" height="40"/>&nbsp;     
   </div>
     <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg"  title="Git" alt="Git" width="40" height="40"/>&nbsp;
