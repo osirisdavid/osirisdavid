@@ -48,8 +48,6 @@ I'm David Ayala, an Backend Developer with Java and Kotlin.
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osirisdavid&layout=compact&hide_border=true&title_color=0B5394&text_color=0B5394&bg_color=0d1117" />
 </div>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=osirisdavid&theme=gotham&hide_border=true&area=true)
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=osirisdavid&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
