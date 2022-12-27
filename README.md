@@ -1,12 +1,23 @@
 ### Hi there 👋
 
-I'm David Ayala, an Backend Developer with Java and Kotlin.
+<!--I'm David Ayala, an Backend Developer with Java and Kotlin.-->
+
+
+--
+### My Stats:
+
+![osirisdavid Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=osirisdavid&show_icons=true&theme=dracula)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0B5394&height=120&section=header"/>
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0B5394&size=35&center=true&vCenter=true&width=1000&lines=Hi+there+👋;I'm+David+Ayala;an+Backend+Developer;with+Java+and+Kotlin;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on Crypto-Meta
 - 🌱 I’m currently learning English.
 - 💬 Ask me about backend development
 - 📫 How to reach me: davidosirisayala@gmail.com
 - ⚡ Fun fact: looking for new challenges
+
 
 <div align="left">
   <h3> Lenguages and Tools:</h3>
@@ -28,19 +39,9 @@ I'm David Ayala, an Backend Developer with Java and Kotlin.
     <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg"  title="Slack" alt="Slack" width="40" height="40"/>&nbsp; 
     <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg"  title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg"  title="Confluence" alt="Confluence" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg"  title="Gradle" alt="Gradle" width="40" height="40"/>&nbsp;
-        
+    <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg"  title="Gradle" alt="Gradle" width="40" height="40"/>&nbsp; 
   </div>    
 </div>
-
---
-### My Stats:
-
-![osirisdavid Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=osirisdavid&show_icons=true&theme=dracula)
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0B5394&height=120&section=header"/>
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0B5394&size=35&center=true&vCenter=true&width=1000&lines=Hi+there+👋;I'm+David+Ayala;an+Backend+Developer;with+Java+and+Kotlin;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 <div align="center">  
