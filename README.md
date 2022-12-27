@@ -32,3 +32,8 @@ I'm David Ayala, an Backend Developer with Java and Kotlin.
         
   </div>    
 </div>
+
+--
+### My Stats:
+
+![osirisdavid Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=osirisdavid&show_icons=true&theme=radical)
