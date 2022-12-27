@@ -6,7 +6,6 @@ I'm David Ayala, an Backend Developer with Java and Kotlin.
 - 🌱 I’m currently learning English.
 - 💬 Ask me about backend development
 - 📫 How to reach me: davidosirisayala@gmail.com
-- 😄 Pronouns: David
 - ⚡ Fun fact: looking for new challenges
 
 <div align="left">
