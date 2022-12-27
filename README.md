@@ -5,12 +5,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F3F6F4&size=35&center=true&vCenter=true&width=1000&lines=Hi+there+👋;I'm+David+Ayala;an+Backend+Developer;with+Java+and+Kotlin+:%29)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on Crypto-Meta
-- 🌱 I’m currently learning English.
+- 🌱 I’m currently learning Computer Engineering and English.
 - 💬 Ask me about backend development
 - 📫 How to reach me: davidosirisayala@gmail.com
 - ⚡ Fun fact: looking for new challenges
-
-![osirisdavid Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=osirisdavid&show_icons=true&theme=dracula)
 
 <div align="left">
   <h3> Lenguages and Tools:</h3>
@@ -37,7 +35,8 @@
 </div>
 
 --### My Stats:
-<div align="center">   
+<div align="center">
+  ![osirisdavid Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=osirisdavid&show_icons=true&theme=dracula)
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osirisdavid&layout=compact&hide_border=true&title_color=0B5394&text_color=0B5394&bg_color=0d1117" />
 </div>
 
