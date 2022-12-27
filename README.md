@@ -1,12 +1,12 @@
-### Hi there 👋
+<!--### Hi there 👋
 
-<!--I'm David Ayala, an Backend Developer with Java and Kotlin.-->
+I'm David Ayala, an Backend Developer with Java and Kotlin.-->
 
 
 --
 ### My Stats:
 
-![osirisdavid Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=osirisdavid&show_icons=true&theme=dracula)
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0B5394&height=120&section=header"/>
  
@@ -18,6 +18,7 @@
 - 📫 How to reach me: davidosirisayala@gmail.com
 - ⚡ Fun fact: looking for new challenges
 
+![osirisdavid Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=osirisdavid&show_icons=true&theme=dracula)
 
 <div align="left">
   <h3> Lenguages and Tools:</h3>
