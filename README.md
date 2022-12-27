@@ -1,6 +1,4 @@
-<!--### Hi there 👋
-
-I'm David Ayala, an Backend Developer with Java and Kotlin.-->
+<!--### Hi there 👋 I'm David Ayala, an Backend Developer with Java and Kotlin.-->
 
 
 --
