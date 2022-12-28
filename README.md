@@ -46,11 +46,12 @@
 <!--
 ![osirisdavid Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=osirisdavid&show_icons=true&theme=dracula)
 <div align="center">
--->
-  
+
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osirisdavid&layout=compact&hide_border=true&title_color=0B5394&text_color=0B5394&bg_color=0d1117" />
 </div>
-
+-->
+  
+  
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{osirisdavid}/count.svg" /></p> 
