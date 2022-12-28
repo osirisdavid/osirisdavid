@@ -1,6 +1,6 @@
 <!--### Hi there 👋 I'm David Ayala, an Backend Developer with Java and Kotlin.-->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0B5394&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=242424&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F3F6F4&size=35&center=true&vCenter=true&width=1000&lines=Hi+there+👋;I'm+David+Ayala;an+Backend+Developer;with+Java+and+Kotlin+:%29)](https://git.io/typing-svg)
 
