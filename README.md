@@ -14,7 +14,7 @@
 
 
 <div align="left">
-  <h3 style=”color: 38a0ff">🔨 Lenguages and Tools:</h3>
+  <h3 style=”color: bddfff">🔨 Lenguages and Tools:</h3>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"  title="Java" alt="Java" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
