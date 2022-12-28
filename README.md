@@ -35,6 +35,9 @@
 </div>
 
 --### My Stats:
+
+<h3 align="left"><img src="./src/estadistica2.gif" width="25px" height="25px"> GitHub Stats</h3>
+
 ![osirisdavid Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=osirisdavid&show_icons=true&theme=dracula)
 <div align="center">
   
