@@ -43,8 +43,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osirisdavid&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
+<!--
 ![osirisdavid Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=osirisdavid&show_icons=true&theme=dracula)
 <div align="center">
+-->
   
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osirisdavid&layout=compact&hide_border=true&title_color=0B5394&text_color=0B5394&bg_color=0d1117" />
 </div>
