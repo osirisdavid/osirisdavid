@@ -3,13 +3,15 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=172f45&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bddfff&size=35&center=true&vCenter=true&width=1000&lines=Hi+there+👋;I'm+David+Ayala;an+Backend+Developer;with+Java+and+Kotlin+:%29)](https://git.io/typing-svg)
-
+<font color="#6e93b5">
 - 🔭 I’m currently working on Crypto-Meta
 - 🌱 I’m currently learning Computer Engineering and English.
 - 💬 Ask me about backend development
 - 📫 How to reach me: davidosirisayala@gmail.com
 - 💼 My LinkedIn profile: https://www.linkedin.com/in/david-ayala-456432183/
 - ⚡ Fun fact: looking for new challenges
+</font>
+
 
 
 <div align="left">
