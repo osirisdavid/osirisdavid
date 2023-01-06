@@ -1,6 +1,9 @@
 <!--### Hi there 👋 I'm David Ayala, an Backend Developer with Java and Kotlin.-->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=172f45&height=120&section=header"/>
+
+<div align="center">
+<img width=60% src="https://github.com/osirisdavid/osirisdavid/blob/main/cover-pic-back-end-development.svg"/>
+</div>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=osirisdavid&label=Profile%20views&color=42b983&style=flat" alt="osirisdavid-github" />
@@ -8,8 +11,9 @@
   <img src="https://img.shields.io/twitter/follow/davidayalabj1?style=social" alt="osirisdavid-twitter" />
 </p>
 
-# 👋 I'm David Osiris Ayala
-# Backend Developer with Java and Kotlin 💻 
+#  Hi there 👋 I'm David Ayala, an `Backend Developer` 💻 #
+
+
 
 
 - 🔭 I’m currently working on Crypto-Meta
