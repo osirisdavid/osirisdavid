@@ -2,7 +2,15 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=172f45&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bddfff&size=35&center=true&vCenter=true&width=1000&lines=Hi+there+👋;I'm+David+Ayala;an+Backend+Developer;with+Java+and+Kotlin+:%29)](https://git.io/typing-svg)
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=osirisdavid&label=Profile%20views&color=42b983&style=flat" alt="osirisdavid-github" />
+  <img src="https://img.shields.io/github/followers/osirisdavid?style=social" alt="osirisdavid-github" />
+  <img src="https://img.shields.io/twitter/follow/davidayalabj1?style=social" alt="osirisdavid-twitter" />
+</p>
+
+# 👋 I'm David Osiris Ayala
+# Backend Developer with Java and Kotlin 💻 
+
 
 - 🔭 I’m currently working on Crypto-Meta
 - 🌱 I’m currently learning Computer Engineering and English.
