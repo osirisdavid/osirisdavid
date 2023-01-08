@@ -40,7 +40,7 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg"  title="Jquery" alt="Jquery" width="40" height="40"/>&nbsp;     
   </div>
     <div>
-      <img src="https://camo.githubusercontent.com/728910691bb690edee33bc5cfdf5c931f3b5d05a2f1dd3330766a09aa7a91698/68747470733a2f2f7265736f75726365732e6a6574627261696e732e636f6d2f73746f726167652f70726f64756374732f696e74656c6c696a2d696465612f696d672f6d6574612f696e74656c6c696a2d696465615f6c6f676f5f333030783330302e706e67"  title="IJ" alt="IJ" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/osirisdavid/osirisdavid/blob/main/68747470733a2f2f7265736f75726365732e6a6574627261696e732e636f6d2f73746f726167652f70726f64756374732f696e74656c6c696a2d696465612f696d672f6d6574612f696e74656c6c696a2d696465615f6c6f676f5f3330307833.png"  title="IJ" alt="IJ" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg"  title="Git" alt="Git" width="40" height="40"/>&nbsp;
     <img src="https://github.com/osirisdavid/osirisdavid/blob/main/28214161.png"  title="Github" alt="Github" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg"  title="Slack" alt="Slack" width="40" height="40"/>&nbsp; 
