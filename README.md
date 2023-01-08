@@ -32,7 +32,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg"  title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
     <img src="https://avatars.githubusercontent.com/u/28214161?s=200&v=4"  title="Ktor" alt="Ktor" width="40" height="40"/>&nbsp;
-    <img src="https://camo.githubusercontent.com/c4a6bfa3c24b9de8d42bbbc16fb7a3d6500198c142bf03990f00758da85ffe14/68747470733a2f2f7365656b6c6f676f2e636f6d2f696d616765732f502f706f73746d616e2d6c6f676f2d463433333735413245422d7365656b6c6f676f2e636f6d2e706e67"  title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/osirisdavid/osirisdavid/blob/main/68747470733a2f2f7365656b6c6f676f2e636f6d2f696d616765732f502f706f73746d616e2d6c6f676f2d463433333735413245422d7365656b6c6f676f2e636f6d2e706e67.png"  title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
   </div>
     <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"  title="MySql" alt="MySql" width="40" height="40"/>&nbsp;
