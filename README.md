@@ -2,7 +2,7 @@
 
 
 <div align="center">
-<img width=55% src="https://github.com/osirisdavid/osirisdavid/blob/main/cover-pic-back-end-development.svg"/>
+<img width=70% src="https://github.com/osirisdavid/osirisdavid/blob/main/cover-pic-back-end-development.svg"/>
 </div>
 
 <p align="center"> 
