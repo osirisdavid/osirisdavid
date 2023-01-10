@@ -41,18 +41,6 @@
         <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" 
     height="40">
     </a> &nbsp;&nbsp;
-    <a href="" target="_blank">
-        <img loading="lazy" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-4-1.png" 
-    height="40"> &nbsp;&nbsp;
-    </a>
-     <a href="" target="_blank">
-        <img loading="lazy" src="https://googlediscovery.com/wp-content/uploads/google-developers.png" 
-    height="40"> &nbsp;&nbsp;
-    </a>
-    <a href="" target="_blank">
-        <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" 
-    height="40">
-    </a>  
 </p>
 
 
