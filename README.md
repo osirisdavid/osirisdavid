@@ -19,8 +19,8 @@
 - 🔭 I’m currently working on Crypto-Meta
 - 🌱 I’m currently learning Computer Engineering and English.
 - 💬 Ask me about backend development
-- 📫 How to reach me: davidosirisayala@gmail.com
-- 💼 My LinkedIn profile: https://www.linkedin.com/in/david-ayala-456432183/
+- 📫 How to reach me: davidosirisayala@gmail.com 
+- 💼 My LinkedIn profile:
 - ⚡ Fun fact: looking for new challenges
 
 
