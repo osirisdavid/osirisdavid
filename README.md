@@ -55,8 +55,8 @@
   </div>
     <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"  title="MySql" alt="MySql" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"  title="MySql" alt="MySql" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg"  title="Jquery" alt="Jquery" width="40" height="40"/>&nbsp;     
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"  title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+    <img src= "https://github.com/JetBrains/Exposed/blob/master/docs/logo.png" title="Exposed" alt="Exposed" width="80" height="40"/>&nbsp;     
   </div>
     <div>
       <img src="https://github.com/osirisdavid/osirisdavid/blob/main/68747470733a2f2f7265736f75726365732e6a6574627261696e732e636f6d2f73746f726167652f70726f64756374732f696e74656c6c696a2d696465612f696d672f6d6574612f696e74656c6c696a2d696465615f6c6f676f5f3330307833.png"  title="IJ" alt="IJ" width="40" height="40"/>&nbsp;
