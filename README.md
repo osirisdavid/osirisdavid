@@ -59,7 +59,7 @@
     <img src= "https://github.com/JetBrains/Exposed/blob/master/docs/logo.png" title="Exposed" alt="Exposed" width="80" height="40"/>&nbsp;     
   </div>
     <div>
-      <img src="https://github.com/osirisdavid/osirisdavid/blob/main/68747470733a2f2f7265736f75726365732e6a6574627261696e732e636f6d2f73746f726167652f70726f64756374732f696e74656c6c696a2d696465612f696d672f6d6574612f696e74656c6c696a2d696465615f6c6f676f5f3330307833.png"  title="IJ" alt="IJ" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/osirisdavid/osirisdavid/blob/main/Intelij_Idea.png"  title="IJ" alt="IJ" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg"  title="Git" alt="Git" width="40" height="40"/>&nbsp;
     <img src="https://github.com/osirisdavid/osirisdavid/blob/main/github.svg"  title="Github" alt="Github" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg"  title="Slack" alt="Slack" width="40" height="40"/>&nbsp; 
