@@ -54,7 +54,7 @@
     <img src="https://github.com/osirisdavid/osirisdavid/blob/main/Postman.png"  title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
   </div>
     <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"  title="MySql" alt="MySql" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"  title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"  title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
     <img src= "https://github.com/JetBrains/Exposed/blob/master/docs/logo.png" title="Exposed" alt="Exposed" width="80" height="40"/>&nbsp;     
   </div>
