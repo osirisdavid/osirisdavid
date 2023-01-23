@@ -1,5 +1,4 @@
-<!--### Hi there 👋 I'm David Ayala, an Backend Developer with Java and Kotlin.-->
-
+# Hi there 👋 I'm David Ayala.
 
 <div align="center">
 <img width=100% src="https://github.com/osirisdavid/osirisdavid/blob/main/cover-pic-back-end-development.svg"/>
@@ -11,10 +10,11 @@
   <img src="https://img.shields.io/twitter/follow/davidayalabj1?style=social" alt="osirisdavid-twitter" />
 </p>
 
-# `Backend Developer` 💻
-# Hi there 👋 I'm David Ayala.
+# `Backend Developer with Java and Kotlin.` 
+ 
 
-- 🔭 I’m currently working on Crypto-Meta
+- 🔭 I’m currently working on [SwFactory](http://swfactory.org/index.html) 
+-    Projects currently in development: Crypto-Meta and Real Estate. 
 - 🌱 I’m currently learning Computer Engineering and English.
 - 💬 Ask me about backend development
 - 📫 How to reach me: davidosirisayala@gmail.com 
@@ -35,7 +35,7 @@
         <img loading="lazy" src="https://i.imgur.com/U4Uiaef.png" 
     height="40">
     </a> &nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/david-ayala-456432183/" target="_blank">
+    <a href="https://www.linkedin.com/in/david-ayala-developer/" target="_blank">
         <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" 
     height="40">
     </a> &nbsp;&nbsp;
