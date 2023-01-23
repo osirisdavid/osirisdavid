@@ -18,7 +18,7 @@
 - 🌱 I’m currently learning Computer Engineering and English.
 - 💬 Ask me about backend development
 - 📫 How to reach me: davidosirisayala@gmail.com 
-- 💼 My LinkedIn profile:
+- 💼 My LinkedIn profile: [Linkedin](https://www.linkedin.com/in/david-ayala-developer/)
 - ⚡ Fun fact: looking for new challenges
 
 
