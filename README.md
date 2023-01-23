@@ -11,10 +11,8 @@
   <img src="https://img.shields.io/twitter/follow/davidayalabj1?style=social" alt="osirisdavid-twitter" />
 </p>
 
-#  Hi there 👋 I'm David Ayala, an `Backend Developer` 💻 #
-
-
-
+# `Backend Developer` 💻
+# Hi there 👋 I'm David Ayala.
 
 - 🔭 I’m currently working on Crypto-Meta
 - 🌱 I’m currently learning Computer Engineering and English.
