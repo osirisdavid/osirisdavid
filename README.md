@@ -14,7 +14,7 @@
  
 
 - 🔭 I’m currently working on [SwFactory](http://swfactory.org/index.html) 
--    Projects currently in development: Crypto-Meta and Real Estate. 
+- 🚀 Projects currently in development: Crypto-Meta and Real Estate. 
 - 🌱 I’m currently learning Computer Engineering and English.
 - 💬 Ask me about backend development
 - 📫 How to reach me: davidosirisayala@gmail.com 
